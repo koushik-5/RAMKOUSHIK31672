@@ -1,1 +1,41 @@
-/* You can add global styles to this file, and also import other style files */
+.card-body:hover{
+    background-color:rgb(170, 154, 9);
+    color: white;
+    font-weight: bold;
+}
+.btn-primary{
+    background-color: transparent;
+    color:blue;
+   
+}
+.btn-primary:hover{
+    color: white;
+    border:none;
+}
+.btn-warning{
+    background-color: transparent;
+    color:orange;
+    
+}
+.btn-warning:hover{
+    color: white;
+    border:none;
+}
+.btn-success{
+    background-color: transparent;
+    color:green;
+    
+}
+.btn-success:hover{
+    color: white;
+    border:none;
+}
+.btn-danger{
+    background-color: transparent;
+    color:red;
+    
+}
+.btn-danger:hover{
+    color: white;
+    border:none;
+}
